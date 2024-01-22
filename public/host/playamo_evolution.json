@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "evolution/AmberBlackjack",
+    "name": "Amber Blackjack"
+  },
+  {
+    "id": "evolution/americanroulette",
+    "name": "American Roulette"
+  },
+  {
+    "id": "evolution/arabic_roulette",
+    "name": "Arabic Roulette"
+  },
+  {
+    "id": "evolution/AuroraBlackjackLibra",
+    "name": "Aurora Blackjack Libra"
+  },
+  {
+    "id": "evolution/AuroraBlackjackTaurus",
+    "name": "Aurora Blackjack Taurus"
+  },
+  {
+    "id": "evolution/auto_la_partage",
+    "name": "Auto-Roulette La Partage"
+  },
+  {
+    "id": "evolution/auto_roulette",
+    "name": "Auto-Roulette"
+  },
+  {
+    "id": "evolution/auto_roulette_vip",
+    "name": "Auto-Roulette VIP"
+  },
+  {
+    "id": "evolution/BacaraRapidoenEspanol",
+    "name": "Bacara Rapido en Espanol"
+  },
+  {
+    "id": "evolution/BacBo",
+    "name": "Bac Bo"
+  },
+  {
+    "id": "evolution/baccarat_a",
+    "name": "Baccarat A"
+  },
+  {
+    "id": "evolution/baccarat_b",
+    "name": "Baccarat B"
+  },
+  {
+    "id": "evolution/baccarat_c",
+    "name": "Baccarat C"
+  },
+  {
+    "id": "evolution/baccarat_controlled",
+    "name": "Baccarat Controlled Squeeze"
+  },
+  {
+    "id": "evolution/baccarat_squeeze",
+    "name": "Baccarat Squeeze"
+  },
+  {
+    "id": "evolution/bjclassic1",
+    "name": "Classic Speed Blackjack 1"
+  },
+  {
+    "id": "evolution/bjclassic10",
+    "name": "Classic Speed Blackjack 10"
+  },
+  {
+    "id": "evolution/bjclassic11",
+    "name": "Classic Speed Blackjack 11"
+  },
+  {
+    "id": "evolution/bjclassic12",
+    "name": "Classic Speed Blackjack 12"
+  },
+  {
+    "id": "evolution/bjclassic13",
+    "name": "Classic Speed Blackjack 13"
+  },
+  {
+    "id": "evolution/bjclassic14",
+    "name": "Classic Speed Blackjack 14"
+  },
+  {
+    "id": "evolution/bjclassic15",
+    "name": "Classic Speed Blackjack 15"
+  },
+  {
+    "id": "evolution/bjclassic16",
+    "name": "Classic Speed Blackjack 16"
+  },
+  {
+    "id": "evolution/bjclassic17",
+    "name": "Blackjack Classic 17"
+  },
+  {
+    "id": "evolution/bjclassic18",
+    "name": "Blackjack Classic 18"
+  },
+  {
+    "id": "evolution/bjclassic19",
+    "name": "Classic Speed Blackjack 19"
+  },
+  {
+    "id": "evolution/bjclassic2",
+    "name": "Classic Speed Blackjack 2"
+  },
+  {
+    "id": "evolution/bjclassic20",
+    "name": "Blackjack Classic 20"
+  },
+  {
+    "id": "evolution/bjclassic22",
+    "name": "Blackjack Classic 22"
+  },
+  {
+    "id": "evolution/bjclassic24",
+    "name": "Blackjack Classic 24"
+  },
+  {
+    "id": "evolution/bjclassic25",
+    "name": "Blackjack Classic 25"
+  },
+  {
+    "id": "evolution/bjclassic26",
+    "name": "Blackjack Classic 26"
+  },
+  {
+    "id": "evolution/bjclassic27",
+    "name": "Classic Speed Blackjack 17"
+  },
+  {
+    "id": "evolution/bjclassic28",
+    "name": "Classic Speed Blackjack 18"
+  },
+  {
+    "id": "evolution/bjclassic29",
+    "name": "Blackjack Classic 29"
+  },
+  {
+    "id": "evolution/bjclassic30",
+    "name": "Blackjack Classic 30"
+  },
+  {
+    "id": "evolution/bjclassic33",
+    "name": "Classic Speed Blackjack 33"
+  },
+  {
+    "id": "evolution/bjclassic34",
+    "name": "Classic Speed Blackjack 24"
+  },
+  {
+    "id": "evolution/bjclassic35",
+    "name": "Blackjack Classic 35"
+  },
+  {
+    "id": "evolution/bjclassic37",
+    "name": "Blackjack Classic 37"
+  },
+  {
+    "id": "evolution/bjclassic38",
+    "name": "Blackjack Classic 38"
+  },
+  {
+    "id": "evolution/bjclassic39",
+    "name": "Blackjack Classic 39"
+  },
+  {
+    "id": "evolution/bjclassic40",
+    "name": "Classic Speed Blackjack 32"
+  },
+  {
+    "id": "evolution/bjclassic41",
+    "name": "Blackjack Classic 41"
+  },
+  {
+    "id": "evolution/bjclassic42",
+    "name": "Blackjack Classic 42"
+  },
+  {
+    "id": "evolution/bjclassic43",
+    "name": "Blackjack Classic 43"
+  },
+  {
+    "id": "evolution/bjclassic44",
+    "name": "Blackjack Classic 44"
+  },
+  {
+    "id": "evolution/bjclassic45",
+    "name": "Blackjack Classic 45"
+  },
+  {
+    "id": "evolution/bjclassic46",
+    "name": "Blackjack Classic 46"
+  },
+  {
+    "id": "evolution/bjclassic47",
+    "name": "Blackjack Classic 47"
+  },
+  {
+    "id": "evolution/bjclassic48",
+    "name": "Blackjack Classic 48"
+  },
+  {
+    "id": "evolution/bjclassic49",
+    "name": "Blackjack Classic 49"
+  },
+  {
+    "id": "evolution/bjclassic50",
+    "name": "Blackjack Classic 50"
+  },
+  {
+    "id": "evolution/bjclassic51",
+    "name": "Blackjack Classic 51"
+  },
+  {
+    "id": "evolution/bjclassic52",
+    "name": "Blackjack Classic 52"
+  },
+  {
+    "id": "evolution/bjclassic53",
+    "name": "Blackjack Classic 53"
+  },
+  {
+    "id": "evolution/bjclassic54",
+    "name": "Blackjack Classic 54"
+  },
+  {
+    "id": "evolution/bjclassic55",
+    "name": "Blackjack Classic 55"
+  },
+  {
+    "id": "evolution/bjclassic56",
+    "name": "Blackjack Classic 56"
+  },
+  {
+    "id": "evolution/bjclassic57",
+    "name": "Blackjack Classic 57"
+  },
+  {
+    "id": "evolution/bjclassic58",
+    "name": "Blackjack Classic 58"
+  },
+  {
+    "id": "evolution/bjclassic59",
+    "name": "Blackjack Classic 59"
+  },
+  {
+    "id": "evolution/bjclassic60",
+    "name": "Blackjack Classic 60"
+  },
+  {
+    "id": "evolution/bjclassic61",
+    "name": "Blackjack Classic 61"
+  },
+  {
+    "id": "evolution/bjclassic62",
+    "name": "Blackjack Classic 62"
+  },
+  {
+    "id": "evolution/bjclassic63",
+    "name": "Blackjack Classic 63"
+  },
+  {
+    "id": "evolution/bjclassic64",
+    "name": "Blackjack Classic 64"
+  },
+  {
+    "id": "evolution/bjclassic65",
+    "name": "Blackjack Classic 65"
+  },
+  {
+    "id": "evolution/bjclassic66",
+    "name": "Blackjack Classic 66"
+  },
+  {
+    "id": "evolution/bjclassic67",
+    "name": "Blackjack Classic 67"
+  },
+  {
+    "id": "evolution/bjclassic68",
+    "name": "Blackjack Classic 68"
+  },
+  {
+    "id": "evolution/bjclassic69",
+    "name": "Blackjack Classic 69"
+  },
+  {
+    "id": "evolution/bjclassic7",
+    "name": "Classic Blackjack 7"
+  },
+  {
+    "id": "evolution/bjclassic70",
+    "name": "Blackjack Classic 70"
+  },
+  {
+    "id": "evolution/bjclassic71",
+    "name": "Blackjack Classic 71"
+  },
+  {
+    "id": "evolution/bjclassic72",
+    "name": "Blackjack Classic 72"
+  },
+  {
+    "id": "evolution/blackjack",
+    "name": "Blackjack"
+  },
+  {
+    "id": "evolution/blackjack_a",
+    "name": "Blackjack A"
+  },
+  {
+    "id": "evolution/blackjack_b",
+    "name": "Blackjack B"
+  },
+  {
+    "id": "evolution/blackjack_c",
+    "name": "Blackjack C"
+  },
+  {
+    "id": "evolution/BlackjackClasicoenEspanol1",
+    "name": "Blackjack Clasico en Espanol 1"
+  },
+  {
+    "id": "evolution/BlackjackClasicoenEspanol2",
+    "name": "Blackjack Clasico en Espanol 2"
+  },
+  {
+    "id": "evolution/BlackjackClasicoenEspanol3",
+    "name": "Blackjack Clasico en Espanol 3"
+  },
+  {
+    "id": "evolution/blackjack_classic1",
+    "name": "Classic Speed Blackjack 4"
+  },
+  {
+    "id": "evolution/blackjack_classic2",
+    "name": "Classic Speed Blackjack 7"
+  },
+  {
+    "id": "evolution/blackjack_classic8",
+    "name": "Blackjack Classic 8"
+  },
+  {
+    "id": "evolution/blackjack_classic9",
+    "name": "Blackjack Classic 9"
+  },
+  {
+    "id": "evolution/BlackjackClassicoemPortugues1",
+    "name": "Blackjack Classico em Portugues 1"
+  },
+  {
+    "id": "evolution/BlackjackClassicoemPortugues2",
+    "name": "Blackjack Classico em Portugues 2"
+  },
+  {
+    "id": "evolution/BlackjackClassicoemPortugues3",
+    "name": "Blackjack Classico em Portugues 3"
+  },
+  {
+    "id": "evolution/BlackjackClassicoemPortugues4",
+    "name": "Blackjack Classico em Portugues 4"
+  },
+  {
+    "id": "evolution/BlackjackClassicoemPortugues5",
+    "name": "Blackjack Classico em Portugues 5"
+  },
+  {
+    "id": "evolution/blackjack_d",
+    "name": "Speed Blackjack D"
+  },
+  {
+    "id": "evolution/blackjack_diamond_vip",
+    "name": "Blackjack Diamond VIP"
+  },
+  {
+    "id": "evolution/blackjack_e",
+    "name": "Speed Blackjack E"
+  },
+  {
+    "id": "evolution/BlackjackemPortugues1",
+    "name": "Blackjack em Portugues 1"
+  },
+  {
+    "id": "evolution/BlackjackemPortugues2",
+    "name": "Blackjack em Portugues 2"
+  },
+  {
+    "id": "evolution/BlackjackemPortuguesOuro",
+    "name": "Blackjack em Portugues Ouro"
+  },
+  {
+    "id": "evolution/BlackjackenEspanol1",
+    "name": "Blackjack en Espanol 1"
+  },
+  {
+    "id": "evolution/BlackjackenEspanol2",
+    "name": "Blackjack en Espanol 2"
+  },
+  {
+    "id": "evolution/BlackjackenEspanol3",
+    "name": "Blackjack en Espanol 3"
+  },
+  {
+    "id": "evolution/blackjack_f",
+    "name": "Blackjack VIP X"
+  },
+  {
+    "id": "evolution/blackjack_g",
+    "name": "Speed Blackjack G"
+  },
+  {
+    "id": "evolution/blackjack_h",
+    "name": "Speed Blackjack H"
+  },
+  {
+    "id": "evolution/blackjack_i",
+    "name": "Speed Blackjack I"
+  },
+  {
+    "id": "evolution/BlackjackIlimitadoAoVivo",
+    "name": "Blackjack Ilimitado Ao Vivo"
+  },
+  {
+    "id": "evolution/blackjack_j",
+    "name": "Speed Blackjack J"
+  },
+  {
+    "id": "evolution/blackjack_k",
+    "name": "Blackjack VIP F"
+  },
+  {
+    "id": "evolution/blackjack_l",
+    "name": "Blackjack VIP U"
+  },
+  {
+    "id": "evolution/blackjack_rng",
+    "name": "First Person Blackjack"
+  },
+  {
+    "id": "evolution/blackjack_vip",
+    "name": "Blackjack VIP I"
+  },
+  {
+    "id": "evolution/blackjack_vip_1",
+    "name": "Blackjack VIP 1"
+  },
+  {
+    "id": "evolution/blackjack_vip_12",
+    "name": "Blackjack VIP 12"
+  },
+  {
+    "id": "evolution/blackjack_vip_2",
+    "name": "Blackjack VIP 2"
+  },
+  {
+    "id": "evolution/blackjack_vip_25",
+    "name": "Blackjack VIP 25"
+  },
+  {
+    "id": "evolution/blackjack_vip_26",
+    "name": "Blackjack VIP 26"
+  },
+  {
+    "id": "evolution/blackjack_vip_27",
+    "name": "Blackjack VIP 27"
+  },
+  {
+    "id": "evolution/blackjack_vip_3",
+    "name": "Blackjack VIP 3"
+  },
+  {
+    "id": "evolution/blackjack_vip_4",
+    "name": "Blackjack VIP 4"
+  },
+  {
+    "id": "evolution/blackjack_vip_5",
+    "name": "Blackjack VIP 5"
+  },
+  {
+    "id": "evolution/blackjack_vip_6",
+    "name": "Blackjack VIP 6"
+  },
+  {
+    "id": "evolution/blackjack_vip_7",
+    "name": "Blackjack VIP 7"
+  },
+  {
+    "id": "evolution/blackjack_vip_8",
+    "name": "Blackjack VIP 8"
+  },
+  {
+    "id": "evolution/blackjack_vip_a",
+    "name": "Blackjack VIP A"
+  },
+  {
+    "id": "evolution/blackjack_vip_alpha",
+    "name": "Blackjack VIP Alpha"
+  },
+  {
+    "id": "evolution/blackjack_vip_b",
+    "name": "Blackjack VIP B"
+  },
+  {
+    "id": "evolution/blackjack_vip_beta",
+    "name": "Blackjack VIP Beta"
+  },
+  {
+    "id": "evolution/blackjack_vip_c",
+    "name": "Blackjack VIP C"
+  },
+  {
+    "id": "evolution/blackjack_vip_d",
+    "name": "Blackjack VIP D"
+  },
+  {
+    "id": "evolution/blackjack_vip_e",
+    "name": "Blackjack VIP E"
+  },
+  {
+    "id": "evolution/blackjack_vip_g",
+    "name": "Blackjack VIP G"
+  },
+  {
+    "id": "evolution/blackjack_vip_h",
+    "name": "Blackjack VIP H"
+  },
+  {
+    "id": "evolution/blackjack_vip_j",
+    "name": "Blackjack VIP J"
+  },
+  {
+    "id": "evolution/blackjack_vip_k",
+    "name": "Blackjack VIP K"
+  },
+  {
+    "id": "evolution/blackjack_vip_l",
+    "name": "Blackjack VIP L"
+  },
+  {
+    "id": "evolution/blackjack_vip_m",
+    "name": "Blackjack VIP M"
+  },
+  {
+    "id": "evolution/blackjack_vip_o",
+    "name": "Blackjack VIP O"
+  },
+  {
+    "id": "evolution/blackjack_vip_p",
+    "name": "Blackjack VIP P"
+  },
+  {
+    "id": "evolution/blackjack_vip_q",
+    "name": "Blackjack VIP Q"
+  },
+  {
+    "id": "evolution/blackjack_vip_r",
+    "name": "Blackjack VIP R"
+  },
+  {
+    "id": "evolution/blackjack_vip_s",
+    "name": "Blackjack VIP S"
+  },
+  {
+    "id": "evolution/blackjack_vip_t",
+    "name": "Blackjack VIP T"
+  },
+  {
+    "id": "evolution/blackjack_vip_z",
+    "name": "Blackjack VIP Z"
+  },
+  {
+    "id": "evolution/blackjack_white_1",
+    "name": "Speed Blackjack K"
+  },
+  {
+    "id": "evolution/blackjack_white_2",
+    "name": "Speed Blackjack L"
+  },
+  {
+    "id": "evolution/blackjack_white_3",
+    "name": "Speed Blackjack M"
+  },
+  {
+    "id": "evolution/Bronze",
+    "name": "Bronze"
+  },
+  {
+    "id": "evolution/BucharestAutoRoulette",
+    "name": "Bucharest Auto - Roulette"
+  },
+  {
+    "id": "evolution/cashorcrash",
+    "name": "Cash or Crash"
+  },
+  {
+    "id": "evolution/casino_holdem",
+    "name": "Casino Hold'em"
+  },
+  {
+    "id": "evolution/casino_malta",
+    "name": "Casino Malta Roulette"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_20",
+    "name": "Classic Speed Blackjack 20"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_21",
+    "name": "Classic Speed Blackjack 21"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_23",
+    "name": "Classic Speed Blackjack 23"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_25",
+    "name": "Classic Speed Blackjack 25"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_26",
+    "name": "Classic Speed Blackjack 26"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_27",
+    "name": "Classic Speed Blackjack 27"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_28",
+    "name": "Classic Speed Blackjack 28"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_29",
+    "name": "Classic Speed Blackjack 29"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_3",
+    "name": "Classic Speed Blackjack 3"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_34",
+    "name": "Classic Speed Blackjack 34"
+  },
+  {
+    "id": "evolution/ClassicSpeedBlackjack40",
+    "name": "Classic Speed Blackjack 40"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_41",
+    "name": "Classic Speed Blackjack 41"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_42",
+    "name": "Classic Speed Blackjack 42"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_43",
+    "name": "Classic Speed Blackjack 43"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_44",
+    "name": "Classic Speed Blackjack 44"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_45",
+    "name": "Classic Speed Blackjack 45"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_46",
+    "name": "Classic Speed Blackjack 46"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_47",
+    "name": "Classic Speed Blackjack 47"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_48",
+    "name": "Classic Speed Blackjack 48"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_49",
+    "name": "Classic Speed Blackjack 49"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_50",
+    "name": "Classic Speed Blackjack 50"
+  },
+  {
+    "id": "evolution/ClassicSpeedBlackjack8",
+    "name": "Classic Speed Blackjack 8"
+  },
+  {
+    "id": "evolution/classic_speed_blackjack_9",
+    "name": "Classic Speed Blackjack 9"
+  },
+  {
+    "id": "evolution/CoralBlackjack",
+    "name": "Coral Blackjack"
+  },
+  {
+    "id": "evolution/craps",
+    "name": "Craps"
+  },
+  {
+    "id": "evolution/CrazyCoinFlip",
+    "name": "Crazy Coin Flip"
+  },
+  {
+    "id": "evolution/crazytime",
+    "name": "Crazy Time"
+  },
+  {
+    "id": "evolution/DeadorAliveSaloon",
+    "name": "Dead or Alive Saloon"
+  },
+  {
+    "id": "evolution/dealnodeal",
+    "name": "Deal or No Deal"
+  },
+  {
+    "id": "evolution/deutsches_roulette",
+    "name": "Deutsches Roulette"
+  },
+  {
+    "id": "evolution/double_ball",
+    "name": "Double Ball Roulette"
+  },
+  {
+    "id": "evolution/dragon_tiger",
+    "name": "Dragon Tiger"
+  },
+  {
+    "id": "evolution/dream_catcher",
+    "name": "Dream Catcher"
+  },
+  {
+    "id": "evolution/ExtraChilliEpicSpins",
+    "name": "Extra Chilli Epic Spins"
+  },
+  {
+    "id": "evolution/fan_tan",
+    "name": "Fan Tan"
+  },
+  {
+    "id": "evolution/FirstPersonDealorNoDeal",
+    "name": "First Person Deal or No Deal"
+  },
+  {
+    "id": "evolution/FirstPersonGoldenWealthBaccarat",
+    "name": "First Person Golden Wealth Baccarat"
+  },
+  {
+    "id": "evolution/FirstPersonLightningBaccarat",
+    "name": "First Person Lightning Baccarat"
+  },
+  {
+    "id": "evolution/FirstPersonLightningBlackjack",
+    "name": "First Person Lightning Blackjack"
+  },
+  {
+    "id": "evolution/FirstPersonLightningLotto",
+    "name": "First Person Lightning Lotto"
+  },
+  {
+    "id": "evolution/FirstPersonProsperityTreeBaccarat",
+    "name": "First Person Prosperity Tree Baccarat"
+  },
+  {
+    "id": "evolution/FirstPersonVideoPoker",
+    "name": "First Person Video Poker"
+  },
+  {
+    "id": "evolution/FirstPersonXXXtremeLightningBaccarat",
+    "name": "First Person XXXtreme Lightning Baccarat"
+  },
+  {
+    "id": "evolution/FirstPersonXXXtremeLightningRoulette",
+    "name": "First Person XXXtreme Lightning Roulette"
+  },
+  {
+    "id": "evolution/FootballStudioDice",
+    "name": "Football Studio Dice"
+  },
+  {
+    "id": "evolution/FootballStudioRoulette",
+    "name": "Football Studio Roulette"
+  },
+  {
+    "id": "evolution/fortune_vip",
+    "name": "Blackjack Fortune VIP"
+  },
+  {
+    "id": "evolution/freebet_blackjack",
+    "name": "Free Bet Blackjack"
+  },
+  {
+    "id": "evolution/FreeBetBlackjack1",
+    "name": "Free Bet Blackjack 1"
+  },
+  {
+    "id": "evolution/FreeBetBlackjack2",
+    "name": "Free Bet Blackjack 2"
+  },
+  {
+    "id": "evolution/FreeBetBlackjack3",
+    "name": "Free Bet Blackjack 3"
+  },
+  {
+    "id": "evolution/FreeBetBlackjack4",
+    "name": "Free Bet Blackjack 4"
+  },
+  {
+    "id": "evolution/FreeBetBlackjack5",
+    "name": "Free Bet Blackjack 5"
+  },
+  {
+    "id": "evolution/FreeBetBlackjack6",
+    "name": "Free Bet Blackjack 6"
+  },
+  {
+    "id": "evolution/FreeBetBlackjack7",
+    "name": "Free Bet Blackjack 7"
+  },
+  {
+    "id": "evolution/FreeBetBlackjackClassicoemPortugues1",
+    "name": "Free Bet Blackjack Classico em Portugues 1"
+  },
+  {
+    "id": "evolution/FreeBetBlackjackClassicoemPortugues2",
+    "name": "Free Bet Blackjack Classico em Portugues 2"
+  },
+  {
+    "id": "evolution/french_roulette",
+    "name": "Roulette Francophone"
+  },
+  {
+    "id": "evolution/FunkyTime",
+    "name": "Funky Time"
+  },
+  {
+    "id": "evolution/FutbolStudio",
+    "name": "Futbol Studio"
+  },
+  {
+    "id": "evolution/GoldenWealthBaccarat",
+    "name": "Golden Wealth Baccarat"
+  },
+  {
+    "id": "evolution/GoldVaultRoulette",
+    "name": "Gold Vault Roulette"
+  },
+  {
+    "id": "evolution/GonzosTreasureMap",
+    "name": "Gonzo\\u2019s Treasure Map"
+  },
+  {
+    "id": "evolution/grand_vip",
+    "name": "Blackjack Grand VIP"
+  },
+  {
+    "id": "evolution/hippodrome_grand",
+    "name": "Hippodrome Grand Casino"
+  },
+  {
+    "id": "evolution/immersive_roulette",
+    "name": "Immersive Roulette"
+  },
+  {
+    "id": "evolution/infinite_blackjack",
+    "name": "Infinite Blackjack"
+  },
+  {
+    "id": "evolution/instantroulette",
+    "name": "Instant Roulette"
+  },
+  {
+    "id": "evolution/JadeBlackjack",
+    "name": "Jade Blackjack"
+  },
+  {
+    "id": "evolution/japanese_roulette",
+    "name": "Japanese Roulette"
+  },
+  {
+    "id": "evolution/lightning_baccarat",
+    "name": "Lightning Baccarat"
+  },
+  {
+    "id": "evolution/LightningBlackjack",
+    "name": "Lightning Blackjack"
+  },
+  {
+    "id": "evolution/lightningdice",
+    "name": "Lightning Dice"
+  },
+  {
+    "id": "evolution/LightningLotto",
+    "name": "Lightning Lotto"
+  },
+  {
+    "id": "evolution/lightning_roulette",
+    "name": "Lightning Roulette"
+  },
+  {
+    "id": "evolution/megaball",
+    "name": "Mega Ball"
+  },
+  {
+    "id": "evolution/MegaBallenEspanol",
+    "name": "Mega Ball en Espanol"
+  },
+  {
+    "id": "evolution/MegaBolaDaSorte",
+    "name": "Mega Bola Da Sorte"
+  },
+  {
+    "id": "evolution/moneywheel_rng",
+    "name": "First Person Dream Catcher"
+  },
+  {
+    "id": "evolution/MoonstoneBlackjack",
+    "name": "Moonstone Blackjack"
+  },
+  {
+    "id": "evolution/nocomm_speed_baccarat",
+    "name": "No Comm Speed Baccarat A"
+  },
+  {
+    "id": "evolution/nocomm_speed_baccaratc",
+    "name": "No Comm Speed Baccarat C"
+  },
+  {
+    "id": "evolution/norsk_roulette",
+    "name": "Norsk Roulette"
+  },
+  {
+    "id": "evolution/OnyxBlackjack",
+    "name": "Onyx Blackjack"
+  },
+  {
+    "id": "evolution/party_bj",
+    "name": "Blackjack Party"
+  },
+  {
+    "id": "evolution/platinum_vip",
+    "name": "Blackjack Platinum VIP"
+  },
+  {
+    "id": "evolution/powerblackjack",
+    "name": "Power BlackJack"
+  },
+  {
+    "id": "evolution/ProsperityTreeBaccarat",
+    "name": "Prosperity Tree Baccarat"
+  },
+  {
+    "id": "evolution/punto_banko",
+    "name": "Punto Banco"
+  },
+  {
+    "id": "evolution/RedDoorRoulette",
+    "name": "Red Door Roulette"
+  },
+  {
+    "id": "evolution/rng-craps",
+    "name": "First Person Craps"
+  },
+  {
+    "id": "evolution/rng-megaball",
+    "name": "First Person Mega Ball"
+  },
+  {
+    "id": "evolution/RoletaAoVivo",
+    "name": "Roleta Ao Vivo"
+  },
+  {
+    "id": "evolution/RoletaRelampago",
+    "name": "Roleta Relampago"
+  },
+  {
+    "id": "evolution/roulette_direct",
+    "name": "Roulette Live"
+  },
+  {
+    "id": "evolution/RuletaBolaRapidaenVivo",
+    "name": "Ruleta Bola Rapida en Vivo"
+  },
+  {
+    "id": "evolution/RuletaenEspanol",
+    "name": "Ruleta en Espanol"
+  },
+  {
+    "id": "evolution/ruleta_envivo",
+    "name": "Ruleta En Vivo"
+  },
+  {
+    "id": "evolution/RuletaRelampagoenVivo",
+    "name": "Ruleta Rel\\u00e1mpago en Vivo"
+  },
+  {
+    "id": "evolution/russian_roulette",
+    "name": "Ruletka Live"
+  },
+  {
+    "id": "evolution/RussianRoyalBlackjack",
+    "name": "Russian Royal Blackjack"
+  },
+  {
+    "id": "evolution/salon_private_baccarat",
+    "name": "Salon Prive Baccarat A"
+  },
+  {
+    "id": "evolution/salon_private_baccarat_2",
+    "name": "Salon Prive Baccarat B"
+  },
+  {
+    "id": "evolution/salon_private_blackjacke",
+    "name": "Salon Prive Blackjack E"
+  },
+  {
+    "id": "evolution/salon_private_blackjackf",
+    "name": "Salon Prive Blackjack F"
+  },
+  {
+    "id": "evolution/salon_private_blackjack_one",
+    "name": "Salon Prive Blackjack A"
+  },
+  {
+    "id": "evolution/salon_private_blackjack_three",
+    "name": "Salon Prive Blackjack C"
+  },
+  {
+    "id": "evolution/salon_private_blackjack_two",
+    "name": "Salon Prive Blackjack B"
+  },
+  {
+    "id": "evolution/salon_private_roulette_one",
+    "name": "Salon Prive Roulette"
+  },
+  {
+    "id": "evolution/salon_prive_baccarat_c",
+    "name": "Salon Prive Baccarat C"
+  },
+  {
+    "id": "evolution/salon_prive_baccarat_d",
+    "name": "Salon Prive Baccarat D"
+  },
+  {
+    "id": "evolution/salon_prive_baccarat_e",
+    "name": "Salon Prive Baccarat E"
+  },
+  {
+    "id": "evolution/sidebetcity",
+    "name": "Side Bet City"
+  },
+  {
+    "id": "evolution/silver1",
+    "name": "Blackjack Silver A"
+  },
+  {
+    "id": "evolution/silver2",
+    "name": "Blackjack Silver B"
+  },
+  {
+    "id": "evolution/silver3",
+    "name": "Blackjack Silver C"
+  },
+  {
+    "id": "evolution/silver4",
+    "name": "Blackjack Silver D"
+  },
+  {
+    "id": "evolution/silver5",
+    "name": "Blackjack Silver E"
+  },
+  {
+    "id": "evolution/silver6",
+    "name": "Blackjack Silver F"
+  },
+  {
+    "id": "evolution/silver7",
+    "name": "Blackjack Silver G"
+  },
+  {
+    "id": "evolution/speed_auto_roulette",
+    "name": "Speed Auto Roulette"
+  },
+  {
+    "id": "evolution/speed_baccarata",
+    "name": "Speed Baccarat A"
+  },
+  {
+    "id": "evolution/speed_baccaratb",
+    "name": "Speed Baccarat B"
+  },
+  {
+    "id": "evolution/speed_baccaratc",
+    "name": "Speed Baccarat C"
+  },
+  {
+    "id": "evolution/speed_baccaratd",
+    "name": "Speed Baccarat D"
+  },
+  {
+    "id": "evolution/speed_baccarate",
+    "name": "Speed Baccarat E"
+  },
+  {
+    "id": "evolution/speed_baccaratf",
+    "name": "Speed Baccarat F"
+  },
+  {
+    "id": "evolution/speed_baccaratg",
+    "name": "Speed Baccarat G"
+  },
+  {
+    "id": "evolution/speed_baccarath",
+    "name": "Speed Baccarat H"
+  },
+  {
+    "id": "evolution/speed_baccarati",
+    "name": "Speed Baccarat I"
+  },
+  {
+    "id": "evolution/speed_baccaratk",
+    "name": "Speed Baccarat K"
+  },
+  {
+    "id": "evolution/speed_baccaratl",
+    "name": "Speed Baccarat L"
+  },
+  {
+    "id": "evolution/speed_baccaratm",
+    "name": "Speed Baccarat M"
+  },
+  {
+    "id": "evolution/speed_baccaratn",
+    "name": "Speed Baccarat N"
+  },
+  {
+    "id": "evolution/speed_baccarato",
+    "name": "Speed Baccarat O"
+  },
+  {
+    "id": "evolution/speed_baccaratp",
+    "name": "Speed Baccarat P"
+  },
+  {
+    "id": "evolution/speed_baccaratq",
+    "name": "Speed Baccarat Q"
+  },
+  {
+    "id": "evolution/speed_baccaratt",
+    "name": "Speed Baccarat T"
+  },
+  {
+    "id": "evolution/speed_baccaratu",
+    "name": "Speed Baccarat U"
+  },
+  {
+    "id": "evolution/speed_baccaratv",
+    "name": "Speed Baccarat V"
+  },
+  {
+    "id": "evolution/speed_baccaratw",
+    "name": "Speed Baccarat W"
+  },
+  {
+    "id": "evolution/speed_baccaratx",
+    "name": "Speed Baccarat X"
+  },
+  {
+    "id": "evolution/speed_blackjack_a",
+    "name": "Speed VIP Blackjack A"
+  },
+  {
+    "id": "evolution/speed_blackjack_b",
+    "name": "Speed VIP Blackjack B"
+  },
+  {
+    "id": "evolution/speed_blackjack_c",
+    "name": "Speed VIP Blackjack C"
+  },
+  {
+    "id": "evolution/speed_blackjack_d",
+    "name": "Speed VIP Blackjack D"
+  },
+  {
+    "id": "evolution/speed_blackjack_h",
+    "name": "Speed VIP Blackjack H"
+  },
+  {
+    "id": "evolution/speed_blackjack_k",
+    "name": "Speed VIP Blackjack K"
+  },
+  {
+    "id": "evolution/speed_blackjack_l",
+    "name": "Speed VIP Blackjack L"
+  },
+  {
+    "id": "evolution/speed_blackjack_m",
+    "name": "Speed VIP Blackjack M"
+  },
+  {
+    "id": "evolution/speed_roulette",
+    "name": "Speed Roulette"
+  },
+  {
+    "id": "evolution/stud_poker",
+    "name": "Caribbean Stud Poker"
+  },
+  {
+    "id": "evolution/suomalainen_roulette",
+    "name": "Suomalainen Ruletti"
+  },
+  {
+    "id": "evolution/SuperAndarBahar",
+    "name": "Super Andar Bahar"
+  },
+  {
+    "id": "evolution/super_sicbo",
+    "name": "Super Sic Bo"
+  },
+  {
+    "id": "evolution/super_six",
+    "name": "No Commission Baccarat"
+  },
+  {
+    "id": "evolution/TeenPatti",
+    "name": "Teen Patti"
+  },
+  {
+    "id": "evolution/texas_holdem_bonus",
+    "name": "Texas Hold'em Bonus"
+  },
+  {
+    "id": "evolution/three_card_poker",
+    "name": "Three Card Poker"
+  },
+  {
+    "id": "evolution/top_card",
+    "name": "Football Studio"
+  },
+  {
+    "id": "evolution/top_games",
+    "name": "Lobby"
+  },
+  {
+    "id": "evolution/TurkceFutbolStudyosu",
+    "name": "Turkce Futbol Studyosu"
+  },
+  {
+    "id": "evolution/turkce_roulette",
+    "name": "Turkce Rulet"
+  },
+  {
+    "id": "evolution/two_hand_casino_oldem",
+    "name": "2 Hand Casino Hold'em"
+  },
+  {
+    "id": "evolution/ultimate_holdem",
+    "name": "Ultimate Texas Hold'em"
+  },
+  {
+    "id": "evolution/VideoPoker",
+    "name": "Video Poker"
+  },
+  {
+    "id": "evolution/VIPBlackjackemPortugues4",
+    "name": "VIP Blackjack em Portugues 4"
+  },
+  {
+    "id": "evolution/VIPBlackjackenEspanol7",
+    "name": "VIP Blackjack en Espanol 7"
+  },
+  {
+    "id": "evolution/VIPDiamond",
+    "name": "VIP Diamond"
+  },
+  {
+    "id": "evolution/VIPPlatinum",
+    "name": "VIP Platinum"
+  },
+  {
+    "id": "evolution/vip_roulette",
+    "name": "VIP Roulette"
+  },
+  {
+    "id": "evolution/XXXtremeLightningBaccarat",
+    "name": "XXXtreme Lightning Baccarat"
+  },
+  {
+    "id": "evolution/XXXTremeLightningRoulette",
+    "name": "XXXTreme Lightning Roulette"
+  }
+]

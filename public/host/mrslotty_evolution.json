@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "evolution2-american-roulette",
+    "name": "American Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-salon-prive-baccarat",
+    "name": "Salon Prive Baccarat",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-f",
+    "name": "Speed Baccarat F",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-g",
+    "name": "Speed Baccarat G",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-salon-prive-baccarat-c",
+    "name": "Salon Prive Baccarat C",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-d",
+    "name": "Speed Baccarat D",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-no-commission-baccarat",
+    "name": "No Commission Baccarat",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-baccarat-a",
+    "name": "Baccarat A",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-baccarat-control-squeeze",
+    "name": "Baccarat Control Squeeze",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-baccarat-b",
+    "name": "Baccarat B",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-a",
+    "name": "Speed Baccarat A",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-lightning-baccarat",
+    "name": "Lightning Baccarat",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-e",
+    "name": "Speed Baccarat E",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-baccarat-squeeze",
+    "name": "Baccarat Squeeze",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-o",
+    "name": "Blackjack VIP O",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-blackjack-k",
+    "name": "Speed Blackjack K",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-fortune-vip",
+    "name": "Blackjack Fortune VIP",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-blackjack-l",
+    "name": "Speed Blackjack L",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-blackjack-e",
+    "name": "Speed Blackjack E",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-a",
+    "name": "Blackjack VIP A",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-platinum-vip",
+    "name": "Blackjack Platinum VIP",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-blackjack-m",
+    "name": "Speed Blackjack M",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-d",
+    "name": "Blackjack VIP D",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-silver-d",
+    "name": "Blackjack Silver D",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-silver-e",
+    "name": "Blackjack Silver E",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-b",
+    "name": "Blackjack B",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-silver-g",
+    "name": "Blackjack Silver G",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-silver-b",
+    "name": "Blackjack Silver B",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-q",
+    "name": "Blackjack VIP Q",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-t",
+    "name": "Blackjack VIP T",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-blackjack-h",
+    "name": "Speed Blackjack H",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-silver-c",
+    "name": "Blackjack Silver C",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-x",
+    "name": "Blackjack VIP X",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-a",
+    "name": "Blackjack A",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-h",
+    "name": "Blackjack VIP H",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-salon-prive-blackjack-d",
+    "name": "Salon Prive Blackjack D",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-b",
+    "name": "Blackjack VIP B",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-party",
+    "name": "Blackjack Party",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-blackjack-i",
+    "name": "Speed Blackjack I",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-salon-prive-blackjack-b",
+    "name": "Salon Prive Blackjack B",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-grand-vip",
+    "name": "Blackjack Grand VIP",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-r",
+    "name": "Blackjack VIP R",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-g",
+    "name": "Blackjack VIP G",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-salon-prive-blackjack-c",
+    "name": "Salon Prive Blackjack C",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-blackjack-d",
+    "name": "Speed Blackjack D",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-diamond-vip",
+    "name": "Blackjack Diamond VIP",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-s",
+    "name": "Blackjack VIP S",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-blackjack-g",
+    "name": "Speed Blackjack G",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-c",
+    "name": "Blackjack C",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-salon-prive-blackjack-a",
+    "name": "Salon Prive Blackjack A",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-i",
+    "name": "Blackjack VIP I",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-p",
+    "name": "Blackjack VIP P",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-l",
+    "name": "Blackjack VIP L",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-e",
+    "name": "Blackjack VIP E",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-silver-f",
+    "name": "Blackjack Silver F",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-c",
+    "name": "Blackjack VIP C",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-m",
+    "name": "Blackjack VIP M",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-silver-a",
+    "name": "Blackjack Silver A",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-z",
+    "name": "Blackjack VIP Z",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-crazy-time",
+    "name": "Crazy Time",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-caribbeanstudpoker",
+    "name": "Caribbean Stud Poker",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-deal-or-no-deal",
+    "name": "Deal or No Deal",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-2-hand-casino-holdem",
+    "name": "2 Hand Casino Hold'em",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-dragon-tiger",
+    "name": "Dragon Tiger",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-extreme-texas-holdem",
+    "name": "Extreme Texas Hold'em",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-free-bet-blackjack",
+    "name": "Free Bet Blackjack",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-casino-holdem",
+    "name": "Casino Hold'em",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-instantroulette",
+    "name": "Instant Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-lightningdice",
+    "name": "Lightning Dice",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-mega-ball",
+    "name": "Mega Ball",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-dream-catcher",
+    "name": "Dream Catcher",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-monopoly-live",
+    "name": "MONOPOLY Live",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-power-blackjack",
+    "name": "Power Blackjack",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-first-person-blackjack",
+    "name": "First Person Blackjack",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-first-person-lightning-roulette",
+    "name": "First Person Lightning Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-roulette",
+    "name": "Speed Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-doubleballroulette",
+    "name": "Double Ball Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-auto-roulette",
+    "name": "Speed Auto Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-roulette",
+    "name": "Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-immersive-roulette",
+    "name": "Immersive Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-auto-roulette-vip",
+    "name": "Auto-Roulette VIP",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-lightningroulette",
+    "name": "Lightning Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-auto-roulette",
+    "name": "Auto-Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-benelux-slingshot",
+    "name": "Benelux Slingshot",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-salon-prive-roulette",
+    "name": "Salon Prive Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-vip-roulette",
+    "name": "VIP Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-infinite-blackjack",
+    "name": "Infinite Blackjack",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-super-sic-bo",
+    "name": "Super Sic Bo",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-sidebetcity",
+    "name": "Side Bet City",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-texas-holdem-bonus-poker",
+    "name": "Texas Hold'em Bonus Poker",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-football-studio",
+    "name": "Football studio",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-triplecardpoker",
+    "name": "Triple Card Poker",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-h",
+    "name": "Speed Baccarat H",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-i",
+    "name": "Speed Baccarat I",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-j",
+    "name": "Speed Baccarat J",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-vip-blackjack-d",
+    "name": "Speed VIP Blackjack D",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-vip-blackjack-a",
+    "name": "Speed VIP Blackjack A",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-vip-blackjack-b",
+    "name": "Speed VIP Blackjack B",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-vip-blackjack-c",
+    "name": "Speed VIP Blackjack C",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-craps",
+    "name": "Craps",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-first-person-craps",
+    "name": "First Person Craps",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-hindi-roulette",
+    "name": "Hindi Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-first-person-baccarat",
+    "name": "First Person Baccarat",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-17",
+    "name": "Blackjack Classic 17",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-18",
+    "name": "Blackjack Classic 18",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-20",
+    "name": "Blackjack Classic 20",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-24",
+    "name": "Blackjack Classic 24",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-25",
+    "name": "Blackjack Classic 25",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-26",
+    "name": "Blackjack Classic 26",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-29",
+    "name": "Blackjack Classic 29",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-30",
+    "name": "Blackjack Classic 30",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-35",
+    "name": "Blackjack Classic 35",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-43",
+    "name": "Blackjack Classic 43",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-44",
+    "name": "Blackjack Classic 44",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-45",
+    "name": "Blackjack Classic 45",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-46",
+    "name": "Blackjack Classic 46",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-47",
+    "name": "Blackjack Classic 47",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-48",
+    "name": "Blackjack Classic 48",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-49",
+    "name": "Blackjack Classic 49",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-50",
+    "name": "Blackjack Classic 50",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-51",
+    "name": "Blackjack Classic 51",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-52",
+    "name": "Blackjack Classic 52",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-53",
+    "name": "Blackjack Classic 53",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-54",
+    "name": "Blackjack Classic 54",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-55",
+    "name": "Blackjack Classic 55",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-56",
+    "name": "Blackjack Classic 56",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-57",
+    "name": "Blackjack Classic 57",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-58",
+    "name": "Blackjack Classic 58",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-59",
+    "name": "Blackjack Classic 59",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-60",
+    "name": "Blackjack Classic 60",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-61",
+    "name": "Blackjack Classic 61",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-62",
+    "name": "Blackjack Classic 62",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-63",
+    "name": "Blackjack Classic 63",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-64",
+    "name": "Blackjack Classic 64",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-65",
+    "name": "Blackjack Classic 65",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-66",
+    "name": "Blackjack Classic 66",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-67",
+    "name": "Blackjack Classic 67",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-68",
+    "name": "Blackjack Classic 68",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-69",
+    "name": "Blackjack Classic 69",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-8",
+    "name": "Blackjack Classic 8",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-9",
+    "name": "Blackjack Classic 9",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-no-comm-speed-baccarat-b",
+    "name": "No Comm Speed Baccarat B",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-no-commission-speed-baccarat-c",
+    "name": "No Commission Speed Baccarat C",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-l",
+    "name": "Speed Baccarat L",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-1",
+    "name": "Classic Speed Blackjack 1",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-10",
+    "name": "Classic Speed Blackjack 10",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-11",
+    "name": "Classic Speed Blackjack 11",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-12",
+    "name": "Classic Speed Blackjack 12",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-13",
+    "name": "Classic Speed Blackjack 13",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-14",
+    "name": "Classic Speed Blackjack 14",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-15",
+    "name": "Classic Speed Blackjack 15",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-16",
+    "name": "Classic Speed Blackjack 16",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-17",
+    "name": "Classic Speed Blackjack 17",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-18",
+    "name": "Classic Speed Blackjack 18",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-19",
+    "name": "Classic Speed Blackjack 19",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-2",
+    "name": "Classic Speed Blackjack 2",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-20",
+    "name": "Classic Speed Blackjack 20",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-21",
+    "name": "Classic Speed Blackjack 21",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-22",
+    "name": "Classic Speed Blackjack 22",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-23",
+    "name": "Classic Speed Blackjack 23",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-24",
+    "name": "Classic Speed Blackjack 24",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-25",
+    "name": "Classic Speed Blackjack 25",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-26",
+    "name": "Classic Speed Blackjack 26",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-27",
+    "name": "Classic Speed Blackjack 27",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-28",
+    "name": "Classic Speed Blackjack 28",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-29",
+    "name": "Classic Speed Blackjack 29",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-3",
+    "name": "Classic Speed Blackjack 3",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-30",
+    "name": "Classic Speed Blackjack 30",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-31",
+    "name": "Classic Speed Blackjack 31",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-32",
+    "name": "Classic Speed Blackjack 32",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-33",
+    "name": "Classic Speed Blackjack 33",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-34",
+    "name": "Classic Speed Blackjack 34",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-4",
+    "name": "Classic Speed Blackjack 4",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-5",
+    "name": "Classic Speed Blackjack 5",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-6",
+    "name": "Classic Speed Blackjack 6",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-7",
+    "name": "Classic Speed Blackjack 7",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-8",
+    "name": "Classic Speed Blackjack 8",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-9",
+    "name": "Classic Speed Blackjack 9",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-k",
+    "name": "Speed Baccarat K",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-m",
+    "name": "Speed Baccarat M",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-n",
+    "name": "Speed Baccarat N",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-speed-baccarat-o",
+    "name": "Speed Baccarat O",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-first-person-american-roulette",
+    "name": "First Person American Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-fan-tan",
+    "name": "Fan Tan",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-cash-or-crash",
+    "name": "Cash Or Crash",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-turkish-lightning-roulette",
+    "name": "Turkish Lightning Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-golden-wealth-baccarat",
+    "name": "Golden Wealth Baccarat",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-first-person-golden-wealth-baccarat",
+    "name": "First Person Golden Wealth Baccarat",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-first-person-lightning-baccarat",
+    "name": "First Person Lightning Baccarat",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-lightning-blackjack",
+    "name": "Lightning Blackjack",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-first-person-lightning-blackjack",
+    "name": "First Person Lightning Blackjack",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-35",
+    "name": "Classic Speed Blackjack 35",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-36",
+    "name": "Classic Speed Blackjack 36",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-37",
+    "name": "Classic Speed Blackjack 37",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-38",
+    "name": "Classic Speed Blackjack 38",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-39",
+    "name": "Classic Speed Blackjack 39",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-40",
+    "name": "Classic Speed Blackjack 40",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-41",
+    "name": "Classic Speed Blackjack 41",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-42",
+    "name": "Classic Speed Blackjack 42",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-43",
+    "name": "Classic Speed Blackjack 43",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-44",
+    "name": "Classic Speed Blackjack 44",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-45",
+    "name": "Classic Speed Blackjack 45",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-46",
+    "name": "Classic Speed Blackjack 46",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-47",
+    "name": "Classic Speed Blackjack 47",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-48",
+    "name": "Classic Speed Blackjack 48",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-49",
+    "name": "Classic Speed Blackjack 49",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-classic-speed-blackjack-50",
+    "name": "Classic Speed Blackjack 50",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-71",
+    "name": "Blackjack Classic 71",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-classic-72",
+    "name": "Blackjack Classic 72",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-1",
+    "name": "Blackjack VIP 1",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-10",
+    "name": "Blackjack VIP 10",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-11",
+    "name": "Blackjack VIP 11",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-12",
+    "name": "Blackjack VIP 12",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-13",
+    "name": "Blackjack VIP 13",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-14",
+    "name": "Blackjack VIP 14",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-15",
+    "name": "Blackjack VIP 15",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-16",
+    "name": "Blackjack VIP 16",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-17",
+    "name": "Blackjack VIP 17",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-18",
+    "name": "Blackjack VIP 18",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-19",
+    "name": "Blackjack VIP 19",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-2",
+    "name": "Blackjack VIP 2",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-3",
+    "name": "Blackjack VIP 3",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-4",
+    "name": "Blackjack VIP 4",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-5",
+    "name": "Blackjack VIP 5",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-6",
+    "name": "Blackjack VIP 6",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-7",
+    "name": "Blackjack VIP 7",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-8",
+    "name": "Blackjack VIP 8",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjack-vip-9",
+    "name": "Blackjack VIP 9",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-bac-bo",
+    "name": "Bac Bo",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-emperor-roulette",
+    "name": "Emperor Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-emperor-sic-bo",
+    "name": "Emperor Sic Bo",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-super-andar-bahar",
+    "name": "Super Andar Bahar",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-first-person-deal-or-no-deal",
+    "name": "First Person Deal or No Deal",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-teen-patti",
+    "name": "Teen Patti",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-xxxtreme-lighting-roulette",
+    "name": "XXXtreme Lighting Roulette",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-european-roulette",
+    "name": "European Roulette",
+    "categories": [
+      "slots"
+    ]
+  },
+  {
+    "id": "evolution2-baccaratlobby",
+    "name": "Baccarat Lobby",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-roulette-lobby",
+    "name": "Roulette Lobby",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-blackjacklobby",
+    "name": "Blackjack Lobby",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-pockerlobby",
+    "name": "Pocker Lobby",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-topgameslobby",
+    "name": "Top Games Lobby",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-extra-chilli-epic-spins",
+    "name": "Extra Chilli Epic Spins",
+    "categories": [
+      "live-dealer"
+    ]
+  },
+  {
+    "id": "evolution2-funky-time",
+    "name": "Funky Time",
+    "categories": [
+      "live-dealer"
+    ]
+  }
+]
