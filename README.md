@@ -1,5 +1,8 @@
 # demo-application
-This is a demo application using Laravel/PHP and React.
+This is a demo application using Laravel/PHP and React, to use [games API](https://documentation.spin.ac).
+
+# Contact
+[Telegram](https://t.me/wrccwest)
 
 ![app](preview.png)
 
