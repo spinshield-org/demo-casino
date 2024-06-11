@@ -3,7 +3,6 @@ This is a demo application using Laravel/PHP and React, to use [games API](https
 
 # Contact
 [Telegram](https://t.me/wrccwest)
-
 ![app](preview.png)
 
 ## Install
